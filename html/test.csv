@@ -1,0 +1,10 @@
+categoría,nombre_esp,nombre_eng,nombre_fra,descripción_esp,descripción_eng,descripción_fra,precio,stock,fecha_ultima_venta
+,Camisetas,,,,,,,,
+Camisetas,Manga corta,Short sleeve,Manche courte,Blablabla...,Blebleble…,Bliblibli…,9.99,5,2020-06-05 11:53:00
+Camisetas,Manga larga,Long sleeve,Manche longue,Blablabla...,Blebleble…,Bliblibli…,15.99,4,2020-05-20 12:00:25
+Camisetas,Top,Top,Top,Blablabla...,Blebleble…,Bliblibli…,12,9,2020-04-21 10:15:13
+,Faldas,,,,,,,,
+Faldas,Vaquera,Denim,Jean,Blablabla...,Blebleble…,Bliblibli…,30.95,10,2020-06-05 20:01:34
+Faldas,Midi,Mini,Mini,Blablabla...,Blebleble…,Bliblibli…,23,10,2020-05-12 14:30:12
+,Pantalones,,,,,,,,
+Pantalones,Jeans,Jeans,Jeans,Blablabla...,Blebleble…,Bliblibli…,45,9,2020-06-05 09:53:30
